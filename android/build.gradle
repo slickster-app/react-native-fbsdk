@@ -19,7 +19,7 @@ android {
 dependencies {
     api 'com.android.support:appcompat-v7:27.0.2'
     implementation 'com.facebook.react:react-native:+' // support react-native-v0.22-rc+
-    implementation 'com.facebook.android:facebook-android-sdk:4.+'
+    implementation 'com.facebook.android:facebook-android-sdk:4.18.0'
 }
 
 repositories {
